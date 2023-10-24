@@ -1,0 +1,38 @@
+ <div class="Products_container">
+            <div class="pro_title">
+                <h3>Top Products</h3>
+                <div class="pro_line"></div>
+            </div><!--/cat_title-->
+            <div class="content_container">
+                <div class="products_content">
+                    <div class="pro_item">
+                       <img src="images/pro2.jfif" alt="">
+                       <h4>most chair</h4>
+                       <h2>modern collection</h2>
+                       <i class="fas fa-angle-right"></i>
+                    </div><!--/pro_item-->
+     
+                    <div class="pro_item">
+                     <img src="images/pro2.jfif" alt="">
+                     <h4>most chair</h4>
+                     <h2>modern collection</h2>
+                     <i class="fas fa-angle-right"></i>
+                  </div><!--/pro_item-->
+     
+                  <div class="pro_item">
+                     <img src="images/pro2.jfif" alt="">
+                     <h4>most chair</h4>
+                     <h2>modern collection</h2>
+                     <i class="fas fa-angle-right"></i>
+                  </div><!--/pro_item-->
+     
+                  <div class="pro_item">
+                     <img src="images/pro2.jfif" alt="">
+                     <h4>most chair</h4>
+                     <h2>modern collection</h2>
+                     <i class="fas fa-angle-right"></i>
+                  </div><!--/pro_item-->
+     
+                 </div><!--products_content-->
+            </div><!--/content_container-->
+        </div><!--Products_container-->
